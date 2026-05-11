@@ -1,4 +1,4 @@
-
+Enhance Ulysses for macOS with advanced Utility for Ulysses for macOS - auto-sync and widgets, the #1 utility. Includes auto-sync and widgets for a smoother experience.
 
 
 
